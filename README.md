@@ -7,3 +7,7 @@
 
 **Hello This is Bold**
 ~~HELLO THIS IS STIKE~~
+
+## Link
+
+[Cool video](https://www.youtube.com/watch?v=o5g-lUuFgpg)
