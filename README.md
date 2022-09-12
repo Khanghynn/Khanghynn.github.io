@@ -6,4 +6,4 @@
 ###### h6 heading
 
 **Hello This is Bold**
-~~HELLO THIS IS STIKE
+~~HELLO THIS IS STIKE~~
